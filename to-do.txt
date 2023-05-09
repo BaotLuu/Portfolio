@@ -1,0 +1,8 @@
+research on react
+-what is react
+-how to create and start react app
+-what is nextjs? what is vite? angular?
+-set up github
+-SQLite
+-CMS
+-how to host a website
